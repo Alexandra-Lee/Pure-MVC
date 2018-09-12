@@ -1,0 +1,16 @@
+{
+    "name": "alexandra/php_rush_mvc_ay",
+    "authors": [
+        {
+            "name": "alexandra",
+            "email": "alexandra.lee@coding-academy.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    },
+
+    "description": " "
+
+    
+}

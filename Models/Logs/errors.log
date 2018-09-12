@@ -1,0 +1,6 @@
+PDOException: SQLSTATE[HY000] [1049] Unknown error 1049 in /home/alexandra/Rendu/PHP_Rush_MVC_AY/Config/db.php:23
+Stack trace:
+#0 /home/alexandra/Rendu/PHP_Rush_MVC_AY/Config/db.php(23): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 /home/alexandra/Rendu/PHP_Rush_MVC_AY/Config/core.php(17): DbConnect::getInstance()
+#2 /home/alexandra/Rendu/PHP_Rush_MVC_AY/Webroot/index.php(4): require_once('/home/alexandra...')
+#3 {main}
